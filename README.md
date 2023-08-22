@@ -1,15 +1,7 @@
+<h2 align="center">Olá 👋! Sou Pedro...<br>E estou atualmente desenvolvendo minhas habilidade em projetos com JavaScript</h2>
 
-<div align="center">
-  
-# 💫 About Me:
-🔭 I’m currently working on: JS (Angular and Node), HTML, CSS, Low-Code;<br>🌱 I’m currently learning: Rust, Bubble.io, JS (Node and Angular);<br>
-</div>
 
-<div align="center">
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedrohmaiaoliv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedrohmaiaoliv/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedrohmaiaoliv) 
-</div>
+
 
 <div align="center">
   
@@ -20,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohmaiaoliv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmaiaoliv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
+  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedrohmaiaoliv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedrohmaiaoliv/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedrohmaiaoliv) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrohmaiaoliv&icon=0&color=0)](https://visitcount.itsvg.in)
