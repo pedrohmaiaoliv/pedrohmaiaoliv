@@ -1,8 +1,8 @@
+
 <div align="center">
 # 💫 About Me:
 🔭 I’m currently working on: JS (Angular and Node), HTML, CSS, Low-Code;<br>🌱 I’m currently learning: Rust, Bubble.io, JS (Node and Angular);<br>
 </div>
-
 <div align="center">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedrohmaiaoliv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedrohmaiaoliv/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedrohmaiaoliv) 
