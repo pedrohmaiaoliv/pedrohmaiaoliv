@@ -1,12 +1,10 @@
 <h2 align="center">Olá 👋! Sou Pedro...<br>E estou atualmente desenvolvendo minhas habilidade em projetos com JavaScript, HTML5, CSS e Python; Estou Arranhando no Rust</h2>
 
 <div align="center">
-  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pedrohmaiaoliv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohmaiaoliv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmaiaoliv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
 </div>
 
 
