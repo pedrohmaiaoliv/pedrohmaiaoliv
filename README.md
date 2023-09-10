@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Oliveira</h1>
-<h3 align="center">Iam Learning and Working With Full-Stack Developer With HTML5, CSS, JS (AngularJS NodeJS). Also Iam Learning Python Rust and Cloud Computing (AWS)</h3>
+<h3 align="center">Iam Learning and Working With Full-Stack Developer With HTML5, CSS, JS (AngularJS NodeJS) at CENTRAL IT. Also Iam Learning Python, Rust and Cloud Computing (AWS)</h3>
 
 
 <div align="center">
